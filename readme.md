@@ -7,8 +7,6 @@ Sistema de tramite documentario para organizaciones.
 
 <!-- ![Login del sistema](/images/manual_usuario.pdf "Login del sistema") -->
 
-<object data="/images/manual_usuario.pdf" type="application/pdf" width="100%"> 
-</object>
 
 
 Login del sistema
