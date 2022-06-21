@@ -11,18 +11,29 @@ class TipoDocumentoAppService
         $this->manager = $manager;
     }
 
-    public function __construct()
-    {
-    }
 
-    public function create()
+    public function create($newObj)
     {
+        // Some code
+        // more code
+        // Some code
+        // more code
+        // Some code
+        // more code
+        // Some code
+        // more code
         // Some code
         // more code
     }
 
-    public function update()
+    public function update($idOldObj, $newObj)
     {
+        // Some code
+        // more code
+        // Some code
+        // more code
+        // Some code
+        // more code
         // Some code
         // more code
     }
@@ -31,5 +42,16 @@ class TipoDocumentoAppService
     {
         // Some code
         // more code
+        // Some code
+        // more code
+        // Some code
+        // more code
+        // Some code
+        // more code
+        // Some code
+        // more code
     }
 }
+
+
+
