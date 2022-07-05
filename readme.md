@@ -24,9 +24,9 @@ Codigo de entidad usuario
 Pagina de tramites
 ![Login del sistema](/images/screencapture-miptel-SistemaMesaPartes-Vista-index-php-2022-06-16-11_50_00.png)
 ## Roles de la aplicacion
-- Admin, este usuario, no puede atender los tramites pero si modificar algunos parametros del sistema, puede ver todos los tramites, crear usuarios.
 
 - Usuario de aplicaion, este usuario pertenece a una unidad organizativa,es una persona que puede atender un tramite, aceptarlo, recharzar, derivar a otra area y reenviarlo a otra unidad organizativa. Este usuario pertenece a la organziacion.
+- Admin, este usuario, no puede atender los tramites pero si modificar algunos parametros del sistema, puede ver todos los tramites, crear usuarios.
 - Usuario externo.- Solicitante de tramite, puede ser un usuario fuera de la organizacion, estudiante(familiar padre) o algun docente, este puede registrar un tramite y hacer seguimiento del mismo a partir de un codigo que le generara el sistema.
 
 
