@@ -32,7 +32,7 @@ Pagina de tramites
 
 
 
-## User manual
+## Manual de usuario final
 
 [Enlace manual de usuario](https://docs.google.com/document/d/1iG2Xh19XLctzeeJ8gYnJ0RNOKaGPz5BihmtzQOWzpaU/edit?usp=sharing
 )
